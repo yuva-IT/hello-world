@@ -1,2 +1,4 @@
-# hello-world
-nothing
+
+git init
+git add .
+git commit -m "Initial commit"
